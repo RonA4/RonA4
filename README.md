@@ -2,6 +2,7 @@ Welcome to my GitHub profile👋
 
 I'm a 2rd-year student pursuing a degree in Computer Science and specializing in Cyber ​​at Ariel University
 About me
+
 🎓 Studying: Computer Science and Cyber ​​at Ariel University.
 
 🌱 Interests: I have a passion for machine learning and deep learning.
