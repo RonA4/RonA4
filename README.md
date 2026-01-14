@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hello+World!;I+am+Ron;Welcome+to+my+GitHub+Profile;Cyber+Security+and+Computer+Science" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/RonA4/RonA4/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
