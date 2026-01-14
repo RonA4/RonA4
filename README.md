@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hello+World;I+am+Ron;Welcome+to+my+GitHub+Profile;Cyber+Security+and+Computer+Science" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hello+World!;I+am+Ron;Welcome+to+my+GitHub+Profile;Cyber+Security+and+Computer+Science" />
 </p>
 
 
@@ -14,6 +14,7 @@ at **Ariel University**.
 
 🌱 Strong interest in **Machine Learning** and **Deep Learning**,  
 especially where they intersect with **Cyber Security**.
+
 
 💻 I enjoy building challenging projects,  
 from low-level systems programming to ML-based detection pipelines.
@@ -49,30 +50,28 @@ from low-level systems programming to ML-based detection pipelines.
 - **Security-oriented programming**, including:
   - Identifying and exploiting software weaknesses  
   - Understanding common attack vectors  
-  - Writing code with both defensive and offensive security awareness  
+  - Defensive and offensive security thinking  
 
-- Strong understanding of:
-  - Attack surfaces
-  - Adversarial thinking
-  - Secure coding practices
+### 🧰 Cyber Security Tools & Environments
+- **Wireshark** – network traffic analysis  
+- **Nmap** – network scanning and reconnaissance  
+- **Burp Suite** – web security testing  
+- **ArcSight** – SIEM and security event analysis  
+- **Check Point SmartConsole** – firewall and security policy management  
 
----
+### 🖥️ Systems & Infrastructure
+- **Virtual Machines** (VirtualBox)  
+- Linux (Ubuntu/Kali) & Windows environments  
+- Containerized workflows with Docker
+- **Git & GitHub**  version control, collaborative workflows, branching, and project management
 
-## 🧠 Additional Expertise
-
-- Machine Learning pipelines for security applications  
-- Feature engineering and data preprocessing  
-- Working across **Windows and Linux** environments  
-- Git-based workflows and containerized development with Docker
-
+  
 ## 📫 Contact Me
-
 <p align="center">
   <a href="mailto:ronamsalem4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 
 
 <p align="center">
