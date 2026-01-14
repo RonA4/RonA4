@@ -21,8 +21,6 @@ from low-level systems programming to ML-based detection pipelines.
 📚 Always eager to learn and grow in the worlds of  
 **research, cyber, development, and technology**.
 
----
-
 ## 🛠️ Languages & Technologies
 
 <p align="center">
@@ -34,6 +32,7 @@ from low-level systems programming to ML-based detection pipelines.
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
@@ -43,11 +42,28 @@ from low-level systems programming to ML-based detection pipelines.
 
 - Malicious PowerShell detection  
 - Static malware analysis  
-- Machine Learning for cyber defense  
-- Secure system design  
+- Machine Learning–based cyber defense  
+- Secure system and software design  
 - Obfuscation-aware detection techniques  
 
+- **Security-oriented programming**, including:
+  - Identifying and exploiting software weaknesses  
+  - Understanding common attack vectors  
+  - Writing code with both defensive and offensive security awareness  
+
+- Strong understanding of:
+  - Attack surfaces
+  - Adversarial thinking
+  - Secure coding practices
+
 ---
+
+## 🧠 Additional Expertise
+
+- Machine Learning pipelines for security applications  
+- Feature engineering and data preprocessing  
+- Working across **Windows and Linux** environments  
+- Git-based workflows and containerized development with Docker
 
 ## 📫 Contact Me
 
@@ -57,22 +73,7 @@ from low-level systems programming to ML-based detection pipelines.
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
-    username=RonA4&
-    show_icons=true&
-    theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?
-    user=RonA4&
-    theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
   🛡️ <b>Cyber Security Enthusiast | Lifelong Learner | Problem Solver</b>
