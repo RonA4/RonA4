@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;I+am+Ron;Welcome+to+my+GitHub+Profile!;Cyber+Security+%7C+Computer+Science" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello+World;I+am+Ron;Welcome+to+my+GitHub+Profile;Cyber+Security+and+Computer+Science" />
 </p>
-
 
 
 ---
