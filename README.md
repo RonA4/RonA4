@@ -9,7 +9,6 @@
 <p align="center">
   ♌ Leo | 444 ✨
 </p>
----
 
 ## 👩‍💻 About Me
 
