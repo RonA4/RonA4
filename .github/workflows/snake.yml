@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest   
     steps:
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
