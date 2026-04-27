@@ -27,6 +27,15 @@ from low-level systems programming to ML-based detection pipelines.
 📚 Always eager to learn and grow in the worlds of  
 **research, cyber, development, and technology**.
 
+🎓 Academic Research Experience:
+Conducted academic research as part of my final-year project, under the supervision of a faculty advisor, in the field of Information Security and the Internet.
+The research was accepted to the MADWeb 2026 workshop and submitted to the NDSS international conference.
+
+📄 Paper title:
+“Deobfuscating Academic Email Addresses: A Security Evaluation of Modern LLMs”
+
+The work was presented by my advisor at the conference in San Diego, as well as at the workshop.
+
 ## 🛠️ Languages & Technologies
 
 <p align="center">
